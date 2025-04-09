@@ -70,5 +70,5 @@ The forum operates as a **Single Page Application (SPA)**, meaning all page chan
 - Send private messages and experience real-time updates.
 
 ## Authors
-- [Mahdi Kheirkhah](https://github.com/mahdikheirkhah)
-- [Markus Amberla](https://github.com/MarkusYPA)
+- [Sergei Budaev](https://github.com/srbudaev)
+- [Anastasia Suhareva](https://github.com/An1Su)
